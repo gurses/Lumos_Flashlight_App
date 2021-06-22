@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/698028813/android.audioplayers.iml" filepath="$PROJECT_DIR$/.idea/modules/698028813/android.audioplayers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-246889704/android.flashlight.iml" filepath="$PROJECT_DIR$/.idea/modules/-246889704/android.flashlight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1007420355/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1007420355/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1057511853/com.dsi.facebook_audience_network.android.facebook_audience_network.iml" filepath="$PROJECT_DIR$/.idea/modules/-1057511853/com.dsi.facebook_audience_network.android.facebook_audience_network.iml" />
+    </modules>
+  </component>
+</project>
